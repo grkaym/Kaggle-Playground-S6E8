@@ -23,3 +23,7 @@ etc.
 ## Log
 ### 2026/08/11
 Join！
+
+カラムの意味がわからない・・・が、最初はサブミットまで情報入れずにやりたいぞ
+
+<img width="1046" height="597" alt="image" src="https://github.com/user-attachments/assets/c1467250-e82b-4e65-866c-2c0934c1f598" />
