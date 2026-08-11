@@ -35,3 +35,6 @@ Join！
 
 - スマホ依存、Nomophobiaっていうらしい。
 [https://www.kaggle.com/competitions/playground-series-s6e8/discussion/731755]
+
+- Discussionを眺めていると、どうやら合成データを生成したプログラムのクセを探る大会になってた...。<br>
+選ぶコンペを間違えたかもしれない。笑
