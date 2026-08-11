@@ -27,3 +27,11 @@ Join！
 カラムの意味がわからない・・・が、最初はサブミットまで情報入れずにやりたいぞ
 
 <img width="1046" height="597" alt="image" src="https://github.com/user-attachments/assets/c1467250-e82b-4e65-866c-2c0934c1f598" />
+
+### 2026/08/11
+- First Submitは適当に特徴量を突っ込んだLightGBMで。
+
+<img width="1218" height="165" alt="image" src="https://github.com/user-attachments/assets/ef340c18-f729-427e-a50a-e84f9e78d198" />
+
+- スマホ依存、Nomophobiaっていうらしい。
+[https://www.kaggle.com/competitions/playground-series-s6e8/discussion/731755]
